@@ -1,0 +1,12 @@
+{
+  "name": "change-theme",
+  "version": "1.0.0",
+  "description": "Change theme with css variables",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitrios Ntanis",
+  "license": "ISC"
+}
